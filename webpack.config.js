@@ -142,11 +142,11 @@ module.exports = {
       }), new HtmlWebpackPlugin({
         title: "ReactTest",
         template: path.resolve(__dirname, "src/index.html")
-      }),    new CleanWebpackPlugin({
+      }),/*    new CleanWebpackPlugin({
         cleanOnceBeforeBuildPatterns: ["**//*", "!./assets"],
         cleanAfterEveryBuildPatterns: true,
         protectWebpackAssets: true
-      }),
+      }),*/
       new webpack.HotModuleReplacementPlugin(),
       new webpack.SourceMapDevToolPlugin(),
       new BundleAnalyzerPlugin(),

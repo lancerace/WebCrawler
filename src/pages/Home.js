@@ -13,7 +13,7 @@ export default function Home() {
         height: "40vh"
       }}>
       <div>
-        <h2>Content conten</h2>
+        <h2>Content content</h2>
       </div>
 
       {/*title*/}
