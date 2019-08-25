@@ -131,6 +131,7 @@ module.exports = {
     //serve file to in-memory
     compress: true,
     historyApiFallback: true,
+    port: 8081,
     hot: true,
     open: true
   },
