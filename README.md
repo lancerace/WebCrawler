@@ -6,8 +6,8 @@
 
 ### Technologies
 
- - Frontend: ReactJS,WebPack,CSS Module
- - Backend: Java,Spring Boot, Spring Restful API
+ - Frontend: ReactJS,WebPack,CSS Module,Axios
+ - Backend: Java,Spring Boot, Spring WebService
  
  
 ### Reproducible Demo
